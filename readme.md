@@ -1,7 +1,3 @@
-Start ReadMe
-----------------------------------------------------------------------------------------------------
-
-
 The program addresses the following question
 ---------------------------------------------
 
@@ -15,11 +11,7 @@ One member of a family can have only one friend.
 
 The village chief needs to know all the friendships every 30 seconds.
 
----------------------------------------------
 
-
-
----------------------------------------------
 Details of Implementation
 ---------------------------------------------
 
